@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "538929110693",
+    "firebase_url": "https://practice-b0d47.firebaseio.com",
+    "project_id": "practice-b0d47",
+    "storage_bucket": "practice-b0d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538929110693:android:6641eec7646131f0",
+        "android_client_info": {
+          "package_name": "com.bitmproject.tourmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538929110693-8937s3adlhchemf8u79ljj8hol3gmsbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitmproject.tourmate",
+            "certificate_hash": "4de06c294705f373b5fa4f82989f9d59f5afe4c0"
+          }
+        },
+        {
+          "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASfndDk9x_GN0nW6ic_trHew2sVCDiDDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538929110693-1heutf6apiu0m1nqo8nojssrurenl12p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pigeonsoft.firebaseapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538929110693:android:619fc6183c909190",
+        "android_client_info": {
+          "package_name": "com.pigeonsoft.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538929110693-tv3mla2kcvt4dl7erbtbadelmgvb4pu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pigeonsoft.firebaseapplication",
+            "certificate_hash": "4de06c294705f373b5fa4f82989f9d59f5afe4c0"
+          }
+        },
+        {
+          "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASfndDk9x_GN0nW6ic_trHew2sVCDiDDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538929110693-1heutf6apiu0m1nqo8nojssrurenl12p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pigeonsoft.firebaseapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538929110693:android:262dd85b679ad4a6",
+        "android_client_info": {
+          "package_name": "com.pigeonsoft.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538929110693-ftt3tr1d7e9nee020cjs8ptcbkvomps9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pigeonsoft.firebasedb",
+            "certificate_hash": "4de06c294705f373b5fa4f82989f9d59f5afe4c0"
+          }
+        },
+        {
+          "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASfndDk9x_GN0nW6ic_trHew2sVCDiDDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538929110693-vr76bibao6bh5i6svrj7co12i9vsaq0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538929110693-1heutf6apiu0m1nqo8nojssrurenl12p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pigeonsoft.firebaseapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

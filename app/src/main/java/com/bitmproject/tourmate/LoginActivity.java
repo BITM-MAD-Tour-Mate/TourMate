@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import br.com.simplepass.loading_button_lib.customViews.CircularProgressButton;
 
 public class LoginActivity extends AppCompatActivity {
