@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.bappedemo.tourmate">
+    package="com.bitmproject.tourmate">
 
     <application
         android:allowBackup="true"
@@ -11,16 +11,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".DashboardActivity"
+            android:name="com.bitmproject.tourmate.DashboardActivity"
             android:label="@string/app_name"></activity>
         <activity
-            android:name=".RegistrationActivity"
+            android:name="com.bitmproject.tourmate.RegistrationActivity"
             android:theme="@style/AppThemeNoBar" />
         <activity
-            android:name=".LoginActivity"
+            android:name="com.bitmproject.tourmate.LoginActivity"
             android:theme="@style/AppThemeNoBar" />
         <activity
-            android:name=".SplashActivity"
+            android:name="com.bitmproject.tourmate.SplashActivity"
             android:theme="@style/AppThemeNoBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name="com.bitmproject.tourmate.MainActivity"></activity>
     </application>
 
 </manifest>
